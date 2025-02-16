@@ -10,5 +10,6 @@
 - **Email**: [sanskrutiw456@gmail.com](mailto:sanskrutiw456@gmail.com)
 - **LinkedIn**: [Sanskruti Wadkar](https://www.linkedin.com/in/sanskruti-wadkar-1613b92b0)
 - **Bitbucket**: [Sanskruti Wadkar](https://bitbucket.org/Sanskruti_W)
+- **Atlassian**: https://sanskruti-wadkar.atlassian.net
 
 
