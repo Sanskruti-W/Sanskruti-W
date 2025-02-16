@@ -4,7 +4,7 @@
   Skills and Interests
 - **Languages**: C, C++, HTML, Java, Python 🖥️
 - **Tools**: Eclipse, Visual Studio Code 🔧
-- **Interests**: testing, Problem-solving ⚙️
+- **Interests**: Testing, Problem-solving ⚙️
   
 - 📫 How to reach me ...
 - **Email**: [sanskrutiw456@gmail.com](mailto:sanskrutiw456@gmail.com)
